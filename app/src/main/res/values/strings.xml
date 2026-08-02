@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Grimoire</string>
+    <string name="widget_description">Balance and monthly spending at a glance</string>
+</resources>
